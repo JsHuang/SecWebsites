@@ -14,3 +14,7 @@ PHP-fuzz https://www.tripwire.com/state-of-security/vert/fuzzing-php-for-fun-and
 ## Web
 web exploit http://www.vulnspy.com/
 XSS Fuzzer - XSS Payloads generate :  https://xssfuzzer.com/
+
+
+## Exploitation
+Modern Binary Exploitation http://security.cs.rpi.edu/courses/binexp-spring2015/ 
