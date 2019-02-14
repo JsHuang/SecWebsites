@@ -17,5 +17,5 @@ XSS Fuzzer - XSS Payloads generate :  https://xssfuzzer.com/
 
 
 ## Exploitation
-Modern Binary Exploitation http://security.cs.rpi.edu/courses/binexp-spring2015/ 
+Modern Binary Exploitation http://security.cs.rpi.edu/courses/binexp-spring2015/   
 WebKit Exploit Tutorial https://www.auxy.xyz/tutorial/Webkit-Exp-Tutorial/
