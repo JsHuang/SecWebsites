@@ -18,4 +18,5 @@ XSS Fuzzer - XSS Payloads generate :  https://xssfuzzer.com/
 
 ## Exploitation
 Modern Binary Exploitation http://security.cs.rpi.edu/courses/binexp-spring2015/   
-WebKit Exploit Tutorial https://www.auxy.xyz/tutorial/Webkit-Exp-Tutorial/
+WebKit Exploit Tutorial https://www.auxy.xyz/tutorial/Webkit-Exp-Tutorial/  
+Linux Kernel Exploitation  https://0x00sec.org/t/point-of-no-c3-linux-kernel-exploitation-part-0/11585
