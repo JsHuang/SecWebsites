@@ -23,6 +23,6 @@ Linux Kernel Exploitation  https://0x00sec.org/t/point-of-no-c3-linux-kernel-exp
 
 
 ## Firmware
-[binwalk](http://binwalk.org/) — 通过固件文件头来分析文件和文件系统
-[Fireware Mod Kit](https://code.google.com/p/firmware-mod-kit/) — 自动化分析固件文件的一系列脚本
-[squashfs-tools](http://www.tldp.org/HOWTO/SquashFS-HOWTO/mksqoverview.html) — 可以通过apt-get squashfs-tools 来安装。用来处理squashfs的一系列工具
+[binwalk](http://binwalk.org/) — 通过固件文件头来分析文件和文件系统    
+[Fireware Mod Kit](https://code.google.com/p/firmware-mod-kit/) — 自动化分析固件文件的一系列脚本   
+[squashfs-tools](http://www.tldp.org/HOWTO/SquashFS-HOWTO/mksqoverview.html) — 可以通过apt-get squashfs-tools 来安装。用来处理squashfs的一系列工具   
